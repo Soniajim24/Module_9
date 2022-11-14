@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  #map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .map-overlay {
+    position: absolute;
+    left: 0;
+    padding: 10px;
+  }
+
+button {
+    background-color: rgb(236, 21, 128);
+    color: rgb(66, 236, 239);
+    border: 4px solid blue; /* Blue */
+    border-style:double ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
