@@ -1,11 +1,13 @@
 ## Description
 This webpage displays the bus route I used to take to go to school. 
-When clicking on the button "Bus stops to school", the marker moves along the bus stops, from the 1st to the last one.
+
+I´ve used the mapbox library and styles as source to create the map of Barcelona and the coordinates of my house, the bus stops and my school.
 
 <img width="922" alt="busRoute" src="https://user-images.githubusercontent.com/112973252/206871612-25eb5b8b-64c8-43a1-8baf-b2fddf5d577b.PNG">
 
 ## How to run it
-Open the 
+Open the [newMapAnimation.html](https://github.com/Soniajim24/Real_time_bus_tracker/blob/main/newMapAnimation.html) file in your browser.
+When clicking on the button "Bus stops to school", the marker moves along the bus stops, from the 1st to the last one.
 
 ## Roadmap of future improvements
 
